@@ -1,2 +1,7 @@
 # asset-allocation
-asset allocation1.1
+planning：
+
+asset allocation 0.1
+sharp ratio
+information ratio
+tr
